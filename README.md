@@ -2,6 +2,11 @@
 
 A real-time chat application built with **Node.js**, **Express**, and **Socket.IO**. Users can join the chat, send messages, and see who is online—all in real time!
 
+## 🌐 Live Demo
+
+The chat app is deployed and accessible at:  
+[https://chat-app-wlg3.onrender.com/](https://chat-app-wlg3.onrender.com/)
+
 ---
 
 ## 🚀 Features
